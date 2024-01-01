@@ -1,6 +1,6 @@
-# news_app_with_apis
+# news Application.
 
-A new Flutter project.
+A new Flutter project to get news from the API.
 
 ## Getting Started
 
